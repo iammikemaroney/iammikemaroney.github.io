@@ -13,17 +13,17 @@ body {
 }
 
 h1 {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Muli', helvetica, sans-serif;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 4rem;
   line-height: 8rem;
   color: #1e2933;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 h2 {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Muli', helvetica, sans-serif;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 3rem;
